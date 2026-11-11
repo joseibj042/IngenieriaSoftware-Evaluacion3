@@ -1,0 +1,10 @@
+/* Tema para panel técnico. Las tareas comerciales se realizan desde React. */
+:root { --primary: #11263c; --secondary: #11263c; --accent: #00a992; --link-fg: #007f77; --link-hover-color: #005e54; --header-color: #fff; --header-bg: #11263c; --header-link-color: #dbeaf0; --breadcrumbs-bg: #183954; --button-bg: #008f81; --button-hover-bg: #006f65; --default-button-bg: #008f81; --default-button-hover-bg: #006f65; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; }
+#header { padding: 18px 26px; }
+#branding #site-name {font-weight: 800; letter-spacing: -.6px; font-size: 23px; }
+#branding #site-name span {font-size: 13px; font-weight: 500; color: #b8d5db;}
+#content { padding-top: 28px; }
+.module { border-radius: 10px; overflow: hidden; }
+.module caption, .module h2 { background: #eaf2f2; color: #153f42; }
+.button, input[type=submit], input[type=button], .submit-row input, a.button { border-radius: 7px; }
